@@ -17,6 +17,7 @@ As discussed previously, this can be useful for auto-updating application files 
 * Cross-Platform
 * Remote Controllable
 * Can be used with any kind of application which builds to a native executable file (e.g. .exe for windows,  .86_64 for linux or .app for Mac) though supporting new executables shouldn't be very
+  
 #### Cons:
 * Depends on Unity and Unity Products (Do I really need to elaborate?)
 * Its technically a game, made in a game engine and hence has many files bloating the final export while the original .NET WPF app was a single executable
@@ -29,11 +30,12 @@ As discussed previously, this can be useful for auto-updating application files 
 1. If you have any issues with the de-compression make sure you zipped your files using the default Windows method, not with a third party application such as WinRAR, WinZip, 7-zip, etc.
 2. For testing/development host the files on your computer and just use the file path as the download link. Obviously this won't work if the launcher isn't running on your computer, but it'll do the trick for testing/development purposes. You'll have to find a proper file hosting solution at some point anyways, as Google Drive, OneDrive, Dropbox, etc. all have limits on how frequently a file can be downloaded, so all of those are really only usable during development.
 3. Try not to keep any of the Remote Config links empty or broken... make sure there are no trailing white spaces too... I probably should have accounted for this in code and I might... but I haven't yet
-#### Documentation:
-Please read everything if you are doing this for the first time.
-[Setup](./Setup.md)
-[Hierarchy](Hierarchy.md)
-[Files](./Files.md)
 
-Cheers,
-Smile :)
+#### Documentation:
+Please read everything if you are doing this for the first time.  
+[Setup](./Setup.md)  
+[Hierarchy](Hierarchy.md)  
+[Files](./Files.md)  
+  
+Cheers,  
+Smile :)  
