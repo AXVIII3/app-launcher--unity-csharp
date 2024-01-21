@@ -11,7 +11,7 @@ So the Remote Config variables would point to these variables... Here is an exam
 
 
 # File Structure
-The launcher detects its current directory and creates a `Data` folder on the same level as itself... The zip is downloaded and extracted inside this folder... 
+The launcher detects its current directory and creates a `Data` folder on the same level as itself... The zip is downloaded and extracted inside this folder...<br>
 ![image](https://github.com/AXVIII3/unity-app-launcher/assets/76608488/24175a3a-f980-453c-a2dc-7571b9bd0166)
 
 
