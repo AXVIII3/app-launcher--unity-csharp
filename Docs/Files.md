@@ -16,5 +16,5 @@ The launcher detects its current directory and creates a `Data` folder on the sa
 
 
 # Compression
-After compression, decompress the file and choose normal extraction (No extract here or extract at 'X'). If the extracted file shows the game files directly under a folder with the Directory name then it would work fine. Though this can be edited in code if necessary.
+After compression, decompress the file and choose normal extraction (No extract here or extract at 'X'). If the extracted file shows the game files directly under a folder with the Directory name then it would work fine. Though this can be edited in code if necessary.<br>
 ![image](https://github.com/AXVIII3/unity-app-launcher/assets/76608488/5ddc770e-6a31-4b91-8b58-d77505eed5f4)
