@@ -32,10 +32,10 @@ As discussed previously, this can be useful for auto-updating application files 
 3. Try not to keep any of the Remote Config links empty or broken... make sure there are no trailing white spaces too... I probably should have accounted for this in code and I might... but I haven't yet
 
 #### Documentation:
-Please read everything if you are doing this for the first time.  
-[Setup](./Setup.md)  
-[Hierarchy](Hierarchy.md)  
-[Files](./Files.md)  
+Please read everything if you are doing this for the first time.<br>
+[Setup](./Setup.md)<br>
+[Hierarchy](Hierarchy.md)<br>
+[Files](./Files.md)<br>
   
-Cheers,  
+Cheers,<br>
 Smile :)  
