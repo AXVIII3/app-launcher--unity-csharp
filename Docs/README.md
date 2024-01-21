@@ -6,6 +6,10 @@ https://github.com/AXVIII3/unity-app-launcher/assets/76608488/2f47e7b8-bae1-44ae
 
 This video shows the loading of remote config variables and the auto-loading of background and logo images. This also shows the automatic setting up, downloading and checking of game files.
 
+#### Tested
+2021.3.20f1 version tested on Windows, Mac and Linux
+2022.3.16f1 version tested only on Windows
+
 #### What is this?
 This is a simple launcher (installer and updater) made in Unity based on [Tom Weiland](https://www.youtube.com/@tomweiland)'s infamous [launcher tutorial](https://www.youtube.com/watch?v=JIjZQo03YdA) for which was originally a .NET WPF application and I converted into a Unity application.
 
