@@ -1,5 +1,5 @@
 ## DEMO
-![[Launcher Demo - Made with Clipchamp 1.mp4]]
+!(./Resources/Launcher%20Demo%20-%20Made%20with%20Clipchamp%201.mp4)
 This video shows the loading of remote config variables and the auto-loading of background and logo images. This also shows the automatic setting up, downloading and checking of game files.
 
 #### What is this?
