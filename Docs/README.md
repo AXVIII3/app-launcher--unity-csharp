@@ -1,5 +1,5 @@
 ## DEMO
-![https://github.com/AXVIII3/unity-app-launcher/assets/76608488/20e14e8f-a58c-46ac-932d-d1007aea3c21]
+![](https://github.com/AXVIII3/unity-app-launcher/assets/76608488/20e14e8f-a58c-46ac-932d-d1007aea3c21)
 This video shows the loading of remote config variables and the auto-loading of background and logo images. This also shows the automatic setting up, downloading and checking of game files.
 
 #### What is this?
