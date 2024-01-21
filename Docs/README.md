@@ -47,3 +47,5 @@ Please read everything if you are doing this for the first time.<br>
   
 Cheers,<br>
 Smile :)  
+
+# Special thanks to [@snoweuph](https://www.snoweuph.net/) for his help in testing and finalizing
